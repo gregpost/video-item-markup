@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/document-open-symbolic.svg</file>
+        <file>icons/media-playback-pause-symbolic.svg</file>
+        <file>icons/media-playback-start-symbolic.svg</file>
+        <file>icons/media-playback-stop-symbolic.svg</file>
+        <file>icons/media-skip-backward-symbolic.svg</file>
+        <file>icons/media-skip-forward-symbolic.svg</file>
+        <file>icons/zoom-in-symbolic.svg</file>
+        <file>icons/zoom-original-symbolic.svg</file>
+        <file>icons/zoom-out-symbolic.svg</file>
+    </qresource>
+</RCC>
